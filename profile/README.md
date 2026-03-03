@@ -18,4 +18,4 @@ AI Trust Commons builds the cross-provider governance layer the industry is miss
 
 ## Founded By
 
-**[Nikhil Singhal](https://linkedin.com/in/nikhilsinghal)** — 25 years leading engineering organizations at Microsoft, AT&T, T-Mobile, Expedia Group, and Hitachi Consulting. Building AI-powered products daily with Claude Code, GitHub Copilot, and MCP servers. Deployer and developer perspective on what governance actually looks like inside the organizations that need it.
+**[Nikhil Singhal](https://linkedin.com/in/nikhilsinghal)** ([nikhil@aitrustcommons.org](mailto:nikhil@aitrustcommons.org)) — 25 years leading engineering organizations at Microsoft, AT&T, T-Mobile, Expedia Group, and Hitachi Consulting. Building AI-powered products daily with Claude Code, GitHub Copilot, and MCP servers. Deployer and developer perspective on what governance actually looks like inside the organizations that need it.
