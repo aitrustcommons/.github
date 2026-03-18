@@ -8,6 +8,8 @@ AI Trust Commons builds the cross-provider governance layer the industry is miss
 
 ## What We're Building
 
+🏗️ **[Human Intelligence Partnership Charter](https://hipcharter.com)** — Four patterns of human-AI partnership. A framework for companies and individuals to map where they are, see what's adjacent, and plan where to go next. [[hipcharter.com](https://hipcharter.com)]
+
 🔗 **[Governance Framework](https://github.com/aitrustcommons/governance-framework)** — Policy enforcement, audit trails, and compliance mapping for AI agents across AWS, Azure, GCP, and hybrid environments. Maps controls across OWASP Top 10 for Agentic Applications, NIST AI RMF, SOC 2, and EU AI Act.
 
 ## Standards Engagement
@@ -18,4 +20,12 @@ AI Trust Commons builds the cross-provider governance layer the industry is miss
 
 ## Founded By
 
-**[Nikhil Singhal](https://linkedin.com/in/nikhilsinghal)** ([nikhil@aitrustcommons.org](mailto:nikhil@aitrustcommons.org)) — 25 years leading engineering organizations at Microsoft, AT&T, T-Mobile, Expedia Group, and Hitachi Consulting. Building AI-powered products daily with Claude Code, GitHub Copilot, and MCP servers. Deployer and developer perspective on what governance actually looks like inside the organizations that need it.
+**[Nikhil Singhal](https://linkedin.com/in/nikhilsinghal)** ([nikhil@aitrustcommons.org](mailto:nikhil@aitrustcommons.org)) — Builder who governs. Designs, architects, and ships production systems across every pattern of the [Human Intelligence Partnership Charter](https://hipcharter.com): Foundation, Tooling, Pipeline, Integration. 25 years at Microsoft, T-Mobile, AT&T, Expedia Group, and Hitachi Consulting watching the distance grow between what leaders intended and what systems actually delivered. The same pattern is playing out in AI.
+
+## Publications
+
+📘 **[Human Intelligence Partnership Charter](https://hipcharter.com)** — Four partnership patterns. Fifteen positions on the map. DOI: [10.5281/zenodo.19078843](https://doi.org/10.5281/zenodo.19078843)
+
+📝 **[From Instinct to Intent™](https://aitrustcommons.org/blog/)** — Article series on the structural gap between human intent and machine execution. Four articles published. DOIs on [Zenodo](https://zenodo.org).
+
+📋 **[NIST Public Comment](https://www.regulations.gov/comment/NIST-2025-0035-0352)** — ~5,000 words on AI agent governance. DOI: [10.5281/zenodo.18903117](https://doi.org/10.5281/zenodo.18903117)
