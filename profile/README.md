@@ -28,4 +28,4 @@ AI Trust Commons builds the cross-provider governance layer the industry is miss
 
 📝 **[From Instinct to Intent™](https://aitrustcommons.org/blog/)** — Article series on the structural gap between human intent and machine execution. Four articles published. DOIs on [Zenodo](https://zenodo.org).
 
-📋 **[NIST Public Comment](https://www.regulations.gov/comment/NIST-2025-0035-0352)** — ~5,000 words on AI agent governance. DOI: [10.5281/zenodo.18903117](https://doi.org/10.5281/zenodo.18903117)
+📋 **[NIST Public Comment](https://www.regulations.gov/comment/NIST-2025-0035-0424)** — ~5,000 words on AI agent governance. DOI: [10.5281/zenodo.18903117](https://doi.org/10.5281/zenodo.18903117)
