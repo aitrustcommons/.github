@@ -4,7 +4,7 @@ Humans and AI agents working as partners under rules set by experts.
 
 ## What's here
 
-**[AI governance in practice](https://aitrustcommons.org/)**: Nikhil Singhal's view of how people and AI agents can work together and how governance has to work now. Shown as one picture in nine steps.
+**[AI governance in practice](https://aitrustcommons.org/)**: Nikhil Singhal's view of how people and AI agents can work together under a company's rules. One picture follows a sales contract through nine steps.
 
 **[From Instinct to Intent™](https://aitrustcommons.org/blog/)**: The article series on the gap between what a person means and what the machine does.
 
@@ -12,7 +12,7 @@ Humans and AI agents working as partners under rules set by experts.
 
 **NIST**: Public comment on the CAISI RFI and a response to the NCCoE concept paper on agent identity and authorization (both March 2026).
 
-## Founded By
+## Founded by
 
 **[Nikhil Singhal](https://nikhilsinghal.com)** ([nikhil@aitrustcommons.org](mailto:nikhil@aitrustcommons.org)): Builder who governs. Enterprise AI Architect & Builder · Hands-on CTO. Going deep on human intent and AI. In three decades of building at Microsoft, Expedia, T-Mobile and startups where he served as CTO, he watched the distance grow between what leaders intended and what systems actually delivered. The same pattern is playing out in AI.
 
