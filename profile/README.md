@@ -1,20 +1,16 @@
 # AI Trust Commons
 
-**Open-source governance for AI agents in the enterprise.**
+Humans and AI agents working as partners under rules set by experts.
 
-AI agents are deploying faster than governance can keep pace. 80% of Fortune 500 companies now deploy active AI agents. Only 14.4% report that all their agents go live with full security and IT approval. Every cloud vendor publishes governance guidance for their own platform. Nobody covers what happens across providers, protocols, and compliance regimes.
+## What's here
 
-AI Trust Commons builds the cross-provider governance layer the industry is missing: standards-mapped, machine-readable, and open source.
+**[AI governance in practice](https://aitrustcommons.org/)**: Nikhil Singhal's view of how people and AI agents can work together and how governance has to work now. Shown as one picture in nine steps.
 
-## What We're Building
+**[From Instinct to Intent™](https://aitrustcommons.org/blog/)**: The article series on the gap between what a person means and what the machine does.
 
 **[Human Intelligence Partnership Charter](https://hipcharter.com)**: Four patterns of human-AI partnership. A model for companies and individuals to map where they are, see what's adjacent, and plan where to go next.
 
-**[Governance Framework](https://github.com/aitrustcommons/governance-framework)** (planned): Policy enforcement, audit trails, and compliance mapping for AI agents across AWS, Azure, GCP, and hybrid environments. It will map controls across OWASP Top 10 for Agentic Applications, NIST AI RMF, SOC 2, and EU AI Act.
-
-## Standards Engagement
-
-- **NIST**: Public comment on the CAISI RFI and a response to the NCCoE concept paper on agent identity and authorization (both March 2026)
+**NIST**: Public comment on the CAISI RFI and a response to the NCCoE concept paper on agent identity and authorization (both March 2026).
 
 ## Founded By
 
